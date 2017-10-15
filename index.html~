@@ -1,0 +1,189 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Retention 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140221
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Jing Zhao's Website</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<!--<link href="http://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet" />-->
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1><a href="#">Jing Zhao</a></h1>
+			</div>
+		</div>
+	</div>
+	<div id="menu-wrapper">
+		<div id="menu" class="container">
+			<ul>
+				<li class="#S0"><font size="6"><a href="#">首页</a></font></li>
+<!--                <li><font size="6"><a href="#S11">科研项目</a></font></li>   -->
+				<li><font size="6"><a href="#S1">科研学术</a></font></li>
+				<li><font size="6"><a href="#S3">学生</a></font></li>
+                <li><a href="egindex.html" target="_blank">English Verison</a></li>
+			</ul>
+		</div>
+		<!-- end #menu --> 
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+            <h2> <a name="S0">  </a> </h2> 
+			<p></p>
+			<p>赵靖，教授，博士导师。哈尔滨工业大学计算机系统结构专业博士，2010.8-2011.9 杜克大学电子与计算机工程系博士后，哈尔滨工程大学支持的第二批青年骨干教师。
+			主要研究方向为可信软件、移动计算和机器学习。
+			在TDSC ACM JETC，JSS，PE，《计算机学报》《计算机研究与发展》
+			等国内外著名期刊和国际会议上发表学术论文20余篇，其中被SCI/EI检中十几篇。</p>
+            <p>本人目前从事的主要研究方向为软件性能测试、软件安全测试及组合测试；软件系统的仿真及重要性采样；移动计算方面，
+			目前主要的研究内容是网络信息分发优化、自组网的抗毁性分析；在机器学习方面，目前主要研究内容是计算机视觉，Hadoop分布式文件系统，最近邻算法等。
+</p>
+		</div>
+        
+		<div id="sidebar">
+			<div class="box2">
+				<div class="title">
+					<h2> </h2>
+				</div>
+				<ul class="style2">
+                    <a> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="zhaojing.jpg" alt="" height=250 /></p></a>
+                    <li><pre><p> 地址：黑龙江省哈尔滨市南岗区南通大街145号 </pre>
+                        <pre><p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哈尔滨工程大学计算机科学与技术学院</pre>
+                        <pre> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮编：150001</p></pre></li>
+                    <li><pre> 邮箱: zhaoj.hrbeu.edu.cn </pre></li>
+				</ul>
+			</div>
+		</div>
+  
+        <div id="content">
+            <p>&nbsp; </p>
+            <p>作为项目负责人承担了国家自然科学基金，博士点新教师基金， 国家博士后基金，省博士后基金和校基金的研究。目前在研项目包括：中科院研究所重点实验室开放基金，某研究所国防科技重点实验室开放基金</p>   
+		</div>
+                    
+        <div id="content">
+            <p>&nbsp; </p>
+			<h2> <a name="S1"> <font size="5"> 科研学术 </font></a> </h2>
+			<br />
+			<ul><li><strong><p style="font-size=16px">发表论文</p></strong></li></ul>
+			<ol start="1">
+			<li>
+			<p><a href="./essay/Software.Maintenance.Optimization.based.on.Stackelberg.game.methods.pdf"  target="_blank";><strong>Jing Zhao</strong>, Yanbin Wang, Gaorong Ning,Chenghone Wang, Kishor S. Trivedi, KaiYuan Cai:Software Maintenance Optimization Based on Stackelberg Game Methods, 2014 IEEE 6th International Workshop on Software Aging and Rejuvenation, Italy: IEEE(2014)</a></p>
+			</li>
+			<li>
+            <p><a href="./essay/ensuring.performance.of.apache.httpserver.affected.by.aging.pdf" target="_blank";><strong>Jing Zhao</strong>, Kishor S. Trivedi, Michael Grottke, Javier Alonso, Yanbin Wang:Ensuring the Performance of Apache HTTP Server Affected by Aging. IEEE Trans. Dependable Sec. Comput. 11(2): 130-141 (2014)</a></p>
+            </li>
+			<li>
+			<p><a href="./essay/software.rejuvenation.scheduling.using.accelerated.life.testing.pdf" target="_blank";><strong>Jing Zhao</strong>, Yuliang Jin, Kishor S. Trivedi, Rivalino Matias Jr., Yanbin Wang:Software rejuvenation scheduling using accelerated life testing. JETC 10(1): 9 (2014) </a></p>
+            </li>
+			<li>
+			<p><a href="./essay/a.comprehensive.approach.to.optimal.software.rejuvenation.pdf" target="_blank";><strong>Jing Zhao</strong>, Yanbin Wang, GaoRong Ning, Kishor S. Trivedi, Rivalino Matias Jr., Kai-Yuan Cai:A comprehensive approach to optimal software rejuvenation. Perform. Eval. 70(11): 917-933 (2013)</a></p>
+			</li>
+			<li>
+			<p><a href="./essay/injecting.memory.leaks.to.accelerate.software.failures.pdf" target="_blank";><strong>Jing Zhao</strong>, Yuliang Jin, Kishor S. Trivedi, Rivalino Matias:Injecting Memory Leaks to Accelerate Software Failures. ISSRE 2011: 260-269</a></p>
+			</li>
+			<li>
+			<p><a href="./essay/particle.filter.based.on.Particle.Swarm.Optimization.resampling.for.vision.tracking.pdf"  target="_blank";><strong>Jing Zhao</strong>, Zhiyuan Li:Particle filter based on Particle Swarm Optimization resampling for vision tracking. Expert Syst. Appl. 37(12): 8910-8914 (2010)</a></p>
+			</li>
+			<li>
+			<p><a href="./essay/software.reliability.growth.model.with.change.point.and.environmental.function.pdf"  target="_blank";><strong>Jing Zhao</strong>, Hongwei Liu, Gang Cui, Xiaozong Yang. Software Reliability Growth Model with Change-Point and Environmental Function, Elsevier journal of software and systems.79(2006)1578-1587 , IF 1.322, JCR Q2 2010.</a></p>
+			</li>
+			<li>
+			<p><a href=""><strong>赵靖</strong>,刘宏伟, 崔刚, 王慧强. 软件测试可靠性和运行可靠性分析. 哈工大学报 (New Series). June 2008, 15(3), 345-350</a></p>
+			</li>
+			<li>
+			<p><a href="./essay/considering.failure.correlation.study.software.reliability.growth.model.pdf" target="_blank";><strong>赵靖</strong>, 张汝波, 顾国昌,考虑故障相关性的软件可靠性增长模型研究, 计算机学报, 2007(10),1713-1720</a></p>
+			</li>
+			<li>
+			<p><a href="./essay/considering.test.and.run.different.software.reliability.growth.model.pdf" target="_blank";><strong>赵靖</strong>,刘宏伟, 崔刚, 杨孝宗, 考虑测试与运行差别的软件可靠性增长模型研究, 计算机研究与发展, 2006,43(3):503-508</a></p>
+			</li>
+			<li>
+			<p><a href="./essay/consider.test.environment.and.actual.running.environment.of.software.reliability.growth.model.pdf" target="_blank";><strong>赵靖</strong>,刘宏伟, 崔刚, 杨孝宗, 考虑测试环境与实际运行环境差别的软件可靠性增长模型研究,计算机研究与发展, 2006,43(5):881-887</a></p>
+			</li>
+			</ol>
+			<br /> 
+			<ul><li><strong><p style="font-size=16px">科研成果</p></strong></li></ul>
+			<ol start="1">
+			<li>
+			<p>分布式任务关键系统综合可信性设计及测评技术：2009.8，黑龙江省自然科学奖、二等奖</p>
+			</li>
+			<li>
+			<p>基于自律计算的分布式系统可信性增强技术：2012，黑龙江省科学进步奖（发明）、二等奖</p>
+			</li>
+			</ol>
+			<ul><li><strong><p style="font-size=16px">专利</p></strong></li></ul>
+			<ol start="1">
+			<li>
+			<p><strong>赵靖</strong>,水声传感器网络节点间的信息发送方法，专利号：201110207229.9</p>
+			</li>
+			</ol>
+			<ul><li><strong><p style="font-size=16px">专著</p></strong></li></ul>
+			<ol start="1">
+			<li>
+			<p>软件可靠性模型及应用</p>
+			</li>
+			<li>
+			<p>主编教材：十一五规划教材，软件可靠性工程</p>
+			</li>
+			</ol>
+		</div>  
+		
+        <div id="content">
+		<p>&nbsp; </p>
+            <h3> <a name="S3"><font size="5"> 学生 </font></a> </h3>   
+			<p></p>
+            <ul><li><strong><p style="font-size=16px">在读硕士生</p></strong></li></ul>
+			<ol start="1">
+			<li><p>韩财兴(S312060008):硕士，计算机科学与技术；2015年3月毕业；基于Hadoop平台的KNN文本分类算法的</p><p>MapReduce实现；<a href="http://www.baidu.com/" target="_blank">百度</a></p></li>
+			<li><p>刘耀莉(S312060120):硕士，计算机科学与技术；2015年3月毕业；虚拟环境下基于马尔可夫更新过程的</p><p>两层软件再生的优化策略研究；<a href="http://www.aliyun.com/" target="_blank">阿里云</a></p></li>
+			<li><p>张磊(S313067012):硕士，计算机科学与技术；2015年6月毕业；组合测试；中兴</p></li>
+			<li><p>杜颐臣(S313067015):硕士，计算机科学与技术；2015年6月毕业；系统性能分析；<a href="http://www.sougou.com/" target="_blank">搜狗</a></p></li>
+			<li><p>党亚娟(S313067017):硕士，计算机科学与技术；2015年6月毕业；神经网络；读博</p></li>
+			<li><p>林祝庆(S313067018):硕士，计算机科学与技术；2015年6月毕业；博弈论；<a href="http://www.zte.com.cn/cn/"  target="_blank">中兴</a></p></li>
+			<li><p>毕晓东(S313060020):硕士，计算机科学与技术；2015年6月毕业；计算几何，内容分发网络；<a href="http://www.mi.com/" target="_blank">小米科技</a></p></li>
+			<li><p>张玉南(S314060025):硕士，计算机科学与技术；2017年3月毕业</p></li>
+			<li><p>徐飞龙(S314060039):硕士，计算机科学与技术；2017年3月毕业</p></li>
+			<li><p>钟上进(S314060114):硕士，软件工程；2017年3月毕业</p></li>
+			<li><p>BENIKHLEF ILIES(S314060003W):硕士，计算机科学与技术；2016年12月毕业；机器学习、信息安全</p></li>
+			</ol>
+			<ul><li><strong><p style="font-size=16px">在读本科生</p></strong></li></ul>
+			<ol start="1">
+			<li><p>张东红(2011111223):本科，信息安全；2015年6月毕业；渗透测试，Fuzzing测试；中科院软件所</p></li>
+			<li><p>李京钰(2011212106):本科，信息安全；2015年6月毕业；分布式数据挖掘，Hadoop；哈工程大学读研</p></li>
+			<li><p>鲁华林(2011211115):本科，信息安全；2015年6月毕业；计算几何；哈工程大学读研</p></li>
+			<li><p>冯若航(2011211107):本科，信息安全：2015年6月毕业；程序设计，计算几何</p></li>
+			<li><p>汪诚弘(S313067017):本科，信息安全：2015年6月毕业；机器学习，数学建模，优化算法</p></li>
+			</ol>			
+			<ul><li><strong><p style="font-size=16px">已毕业硕士生</p></strong></li></ul>
+			<ol start="1">
+			<li><p>陈小勇(S308060127):硕士，计算机科学与技术专业；2011年3月毕业：中国人民解放军第二炮兵96261部队</p></li>
+			<li><p>云菲(S309060066):硕士，计算机科学与技术；2012年3月毕业；<a href="http://www.bwstor.com.cn/" target="_blank">中科蓝鲸</a></p></li>
+			<li><p>靳瑜亮(S310060090):硕士，计算机应用技术；2013年3月毕业；<a href="http://www.umeng.com/" target="_blank">友盟</a></p></li>
+			<li><p>兰文宝(S310060106):硕士，计算机应用技术；2013年3月毕业；<a href="http://www.hlju.edu.cn/2011/index.html" target="_blank">黑大</a></p></li>
+			<li><p>李志娟(S310060107):硕士，计算机科学与技术；2013年3月毕业；<a href="http://www.hrbyg.cn/" target="_blank">宇光科技</a></p></li>
+			<li><p>刑阳阳(S311060134):硕士，计算机应用技术；2014年3月毕业；<a href="http://www.renren-inc.com/zh/" target="_blank">人人网</a></p></li>
+			</ol>
+		</div>
+        
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>&copy; copyright 2014 | Design by <a href="http://templated.co" rel="nofollow">Geekers@HEU</a>.</p>
+</div>
+</body>
+</html>
